@@ -4,7 +4,7 @@
 - 🌱 I’m currently learning Python.
 - 📫 Contacts: @ntlp. (Discord)
 ## Stats
-  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ntlp0)]
+  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ntlp0)
 
 
 
