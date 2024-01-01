@@ -1,6 +1,6 @@
 ## Who am I?
 - 👋 Hey there! I am NTLP! I am a tech enthusiast and a (kinda goofy) software developer.
-- 👀 I have experience with very basic C++ and resource hacking skills
+- 👀 I have experience with resource hacking and very basic C++
 - 🌱 I’m currently learning Python.
 - 📫 Contacts: @ntlp. (Discord)
 ## Stats
